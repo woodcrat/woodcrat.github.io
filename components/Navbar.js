@@ -15,15 +15,7 @@ function Navbar(){
 				<li><a href="#">Home</a></li>
 				<li><a href="#">About</a></li>
 				<li><a href="#">Contact</a></li>
-				<li><a href="#">News</a></li>
-				<li className="dropdown"><a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button">Blog<span className="caret"></span></a>
-				  <ul className="dropdown-menu">
-					<li><a href="#">Blog entry #1</a></li>
-					<li><a href="#">Blog entry #2</a></li>
-					<li><a href="#">Blog entry #3</a></li>
-					<li><a href="#">Blog entry #4</a></li>
-				  </ul>
-				</li>
+				<li><a href="#">Blog</a></li>
 			  </ul>
 			</div>
 		  </div>
