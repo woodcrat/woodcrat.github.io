@@ -15,6 +15,8 @@ function Navbar(){
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
 				<li><a href="contact.html">Contact</a></li>
+				<li><a href="play.html">Play</a></li>
+				<li><a href="download.html">Download</a></li>
 				<li><a href="http://woodcrat.github.io/blog/">Blog</a></li>
 			  </ul>
 			</div>
