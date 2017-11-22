@@ -12,10 +12,10 @@ function Navbar(){
 			</div>
 			<div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			  <ul className="nav navbar-nav">
-				<li><a href="#">Home</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Contact</a></li>
-				<li><a href="#">Blog</a></li>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="woodcrat.github.io/blog/">Blog</a></li>
 			  </ul>
 			</div>
 		  </div>
